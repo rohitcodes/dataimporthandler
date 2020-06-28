@@ -4,8 +4,8 @@
       "description": "A utility to import documents from a database system using Solr",
       "versions": [
         {
-          "version": "8.5.2-1",
-          "date": "2020-05-30",
+          "version": "9.0.0-1",
+          "date": "2020-06-28",
           "artifacts": [
             {
               "url": "data-import-handler-8.5.2-1.jar",
